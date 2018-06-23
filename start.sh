@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar Converter.jar world worldanvil
+java -jar classes/artifacts/LevelDb2Avnil_jar/LevelDb2Avnil.jar world worldanvil

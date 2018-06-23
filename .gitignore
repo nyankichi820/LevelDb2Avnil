@@ -1,4 +1,7 @@
-/bin/
-/test/
-.classpath
-.classpath
+*.iml
+.idea
+*.class
+.gradle
+.DS_Store
+/world
+/worldanvil
